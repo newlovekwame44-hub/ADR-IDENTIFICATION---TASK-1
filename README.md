@@ -16,11 +16,11 @@ Typical reaction: Itching (urticaria) with rash
 
 |  | Question | Answer | Score |
 |---|----------|--------|-------|
-Previous conclusive reports of this reaction? | Yes | +1 |
+| 1 | Previous conclusive reports of this reaction? | Yes | +1 |
 | 2 | Did it appear after the drug was given? | Yes | +2 |
-3 | Improved on stopping the drug? | Unknown | 0 |
-| Reappeared on rechallenge? | Not done | 0 |
-Not yet excluded | 5 | Alternative causes? |
+| 3 | Improved on stopping the drug? | Unknown | 0 |
+| 4 | Reappeared on rechallenge? | Not done | 0 |
+| 5 | Alternative causes ? | Not yet excluded | 0 |
 | 6 | Reaction with placebo? | Not done | 0 |
 | 7 | Toxic drug level? | Not measured | 0 |
 | 8 | Dose-related? | Not known | 0 |
